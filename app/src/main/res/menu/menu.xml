@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/valuta" android:id="@+id/valuta"/>
+    <item android:title="@string/greutate" android:id="@+id/greutate"/>
+    <item android:title="@string/temperatura" android:id="@+id/temperatura"/>
+    <item android:title="@string/presiune" android:id="@+id/presiune"/>
+    <item android:title="@string/lungime" android:id="@+id/lungime"/>
+</menu>

@@ -1,0 +1,10 @@
+
+dsquid:S00112&"FDefine and throw a dedicated exception instead of using a generic one.(ƒœ8®İÌˆ¤-
+Fsquid:S1148<"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8â‰…ˆ¤-
+Fsquid:S1148Z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¥ç¡‰¤-
+¥squid:S1186Ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ8ÁŠÔ³¤-
+Fsquid:S1148z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8£¦÷ˆ¤-
+©%squid:RedundantThrowsDeclarationCheck-"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(à§Áâşÿÿÿÿ8Õòç´¤-
+psquid:UselessImportCheck"@Remove this unused import 'android.support.annotation.Nullable'.(Ö‹øïüÿÿÿÿ8´µàµ¤-
+usquid:S3776-"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(à§Áâşÿÿÿÿ8«é‰¤-
+]"squid:SwitchLastCaseIsDefaultCheck·""Add a default case to this switch.(¼œóÛüÿÿÿÿ8£¦÷ˆ¤-

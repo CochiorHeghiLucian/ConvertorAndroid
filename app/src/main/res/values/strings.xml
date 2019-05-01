@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="valuta">Valuta</string>
+    <string name="greutate">Greutate</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="presiune">Presiune</string>
+    <string name="lungime">Lungime</string>
+    <string name="convert">Convert</string>
+</resources>
